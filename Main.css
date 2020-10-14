@@ -1,0 +1,54 @@
+body{
+
+}
+
+
+
+
+.Container{
+    background-color: whitesmoke;
+   text-align: center;
+   width: 95%;
+}
+
+
+
+
+
+
+
+.image1{
+    text-align: left;
+    background-color:skyblue;
+    color:white;
+    padding:1px;
+
+}
+
+.text1{
+    text-align: center;
+    color: teal;
+}
+ul{
+    list-style: none;
+}
+
+.navbar1{
+    float: center;
+    text-align:center;
+    list-style:none;
+}
+
+.sidebar1{
+    float: left;
+    text-align:left;
+    list-style:none;
+
+}
+
+footer{
+    text-align: center;
+    background-color: steelblue;
+    font-size: 15px;
+    padding: 5px;
+}
